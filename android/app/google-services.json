@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "721304936218",
+    "project_id": "habitheroproject",
+    "storage_bucket": "habitheroproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:721304936218:android:091713c1591e33a7e1d6a3",
+        "android_client_info": {
+          "package_name": "com.example.habit_hero"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "721304936218-9o9b1o3kmeimsbgpqsptih2elesghbsu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.habit_hero",
+            "certificate_hash": "390f6439a7c481b33f9df9ea668111a3f5033296"
+          }
+        },
+        {
+          "client_id": "721304936218-0fr50eougn4ss233mgrpe4glnucfsae6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUnySg7XGqJkr1H9iHwNJjiuvW-wIbyUI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "721304936218-0fr50eougn4ss233mgrpe4glnucfsae6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "721304936218-0cc1b0ruvkcqff0k7086k9q7a4n6b3ia.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.habithero"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:721304936218:android:43a978cd6332127de1d6a3",
+        "android_client_info": {
+          "package_name": "com.example.habithero"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "721304936218-0fr50eougn4ss233mgrpe4glnucfsae6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUnySg7XGqJkr1H9iHwNJjiuvW-wIbyUI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "721304936218-0fr50eougn4ss233mgrpe4glnucfsae6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "721304936218-0cc1b0ruvkcqff0k7086k9q7a4n6b3ia.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.habithero"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
