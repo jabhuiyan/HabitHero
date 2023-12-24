@@ -1,16 +1,15 @@
 # habit_hero
 
-A new Flutter project.
+An app to help you develop habits and keep you motivated!
 
-## Getting Started
+![image](https://github.com/jabhuiyan/HabitHero/blob/main/assets/habithero1.jpg)
 
-This project is a starting point for a Flutter application.
+![image](https://github.com/jabhuiyan/HabitHero/blob/main/assets/habithero2.jpg)
 
-A few resources to get you started if this is your first Flutter project:
+![image](https://github.com/jabhuiyan/HabitHero/blob/main/assets/habithero3.jpg)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![image](https://github.com/jabhuiyan/HabitHero/blob/main/assets/habithero4.jpg)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![image](https://github.com/jabhuiyan/HabitHero/blob/main/assets/habithero5.jpg)
+
+![image](https://github.com/jabhuiyan/HabitHero/blob/main/assets/habithero6.jpg)
